@@ -1,506 +1,2681 @@
 en:
   languages:
-    ab: "Abkhazian"
-    ace: "Achinese"
-    ach: "Acoli"
-    ada: "Adangme"
-    ady: "Adyghe"
-    ae: "Avestan"
-    af: "Afrikaans"
-    afa: "Afro-Asiatic Language"
-    afh: "Afrihili"
-    ain: "Ainu"
-    ak: "Akan"
-    akk: "Akkadian"
-    ale: "Aleut"
-    alg: "Algonquian Language"
-    alt: "Southern Altai"
-    am: "Amharic"
-    an: "Aragonese"
-    ang: "Old English"
-    anp: "Angika"
-    apa: "Apache Language"
-    ar: "Arabic"
-    arc: "Aramaic"
-    arn: "Araucanian"
-    arp: "Arapaho"
-    art: "Artificial Language"
-    arw: "Arawak"
-    as: "Assamese"
-    ast: "Asturian"
-    ath: "Athapascan Language"
-    aus: "Australian Language"
-    av: "Avaric"
-    awa: "Awadhi"
-    ay: "Aymara"
-    az: "Azerbaijani"
-    ba: "Bashkir"
-    bad: "Banda"
-    bai: "Bamileke Language"
-    bal: "Baluchi"
-    ban: "Balinese"
-    bas: "Basa"
-    bat: "Baltic Language"
-    be: "Belarusian"
-    bej: "Beja"
-    bem: "Bemba"
-    ber: "Berber"
-    bg: "Bulgarian"
-    bh: "Bihari"
-    bho: "Bhojpuri"
-    bi: "Bislama"
-    bik: "Bikol"
-    bin: "Bini"
-    bla: "Siksika"
-    bm: "Bambara"
-    bn: "Bengali"
-    bnt: "Bantu"
-    bo: "Tibetan"
-    br: "Breton"
-    bra: "Braj"
-    bs: "Bosnian"
-    btk: "Batak"
-    bua: "Buriat"
-    bug: "Buginese"
-    byn: "Blin"
-    ca: "Catalan"
-    cad: "Caddo"
-    cai: "Central American Indian Language"
-    car: "Carib"
-    cau: "Caucasian Language"
-    cch: "Atsam"
-    ce: "Chechen"
-    ceb: "Cebuano"
-    cel: "Celtic Language"
-    ch: "Chamorro"
-    chb: "Chibcha"
-    chg: "Chagatai"
-    chk: "Chuukese"
-    chm: "Mari"
-    chn: "Chinook Jargon"
-    cho: "Choctaw"
-    chp: "Chipewyan"
-    chr: "Cherokee"
-    chy: "Cheyenne"
-    cmc: "Chamic Language"
-    co: "Corsican"
-    cop: "Coptic"
-    cpe: "English-based Creole or Pidgin"
-    cpf: "French-based Creole or Pidgin"
-    cpp: "Portuguese-based Creole or Pidgin"
-    cr: "Cree"
-    crh: "Crimean Turkish"
-    crp: "Creole or Pidgin"
-    cs: "Czech"
-    csb: "Kashubian"
-    cu: "Church Slavic"
-    cus: "Cushitic Language"
-    cv: "Chuvash"
-    cy: "Welsh"
-    da: "Danish"
-    dak: "Dakota"
-    dar: "Dargwa"
-    day: "Dayak"
-    de: "German"
-    "de-AT": "Austrian German"
-    "de-CH": "Swiss High German"
-    del: "Delaware"
-    den: "Slave"
-    dgr: "Dogrib"
-    din: "Dinka"
-    doi: "Dogri"
-    dra: "Dravidian Language"
-    dsb: "Lower Sorbian"
-    dua: "Duala"
-    dum: "Middle Dutch"
-    dv: "Divehi"
-    dyu: "Dyula"
-    dz: "Dzongkha"
-    ee: "Ewe"
-    efi: "Efik"
-    egy: "Ancient Egyptian"
-    eka: "Ekajuk"
-    el: "Greek"
-    elx: "Elamite"
-    en: "English"
-    "en-AU": "Australian English"
-    "en-CA": "Canadian English"
-    "en-GB": "British English"
-    "en-US": "U.S. English"
-    enm: "Middle English"
-    eo: "Esperanto"
-    es: "Spanish"
-    "es-ES": "Iberian Spanish"
-    et: "Estonian"
-    eu: "Basque"
-    ewo: "Ewondo"
-    fa: "Persian"
-    fan: "Fang"
-    fat: "Fanti"
-    ff: "Fulah"
-    fi: "Finnish"
-    fil: "Filipino"
-    fiu: "Finno-Ugrian Language"
-    fj: "Fijian"
-    fo: "Faroese"
-    fon: "Fon"
-    fr: "French"
-    "fr-CA": "Canadian French"
-    "fr-CH": "Swiss French"
-    frm: "Middle French"
-    fro: "Old French"
-    frr: "Northern Frisian"
-    frs: "Eastern Frisian"
-    fur: "Friulian"
-    fy: "Western Frisian"
-    ga: "Irish"
-    gaa: "Ga"
-    gay: "Gayo"
-    gba: "Gbaya"
-    gd: "Scottish Gaelic"
-    gem: "Germanic Language"
-    gez: "Geez"
-    gil: "Gilbertese"
-    gl: "Galician"
-    gmh: "Middle High German"
-    gn: "Guarani"
-    goh: "Old High German"
-    gon: "Gondi"
-    gor: "Gorontalo"
-    got: "Gothic"
-    grb: "Grebo"
-    grc: "Ancient Greek"
-    gsw: "Swiss German"
-    gu: "Gujarati"
-    gv: "Manx"
-    gwi: "Gwichʼin"
-    ha: "Hausa"
-    hai: "Haida"
-    haw: "Hawaiian"
-    he: "Hebrew"
-    hi: "Hindi"
-    hil: "Hiligaynon"
-    him: "Himachali"
-    hit: "Hittite"
-    hmn: "Hmong"
-    ho: "Hiri Motu"
-    hr: "Croatian"
-    hsb: "Upper Sorbian"
-    ht: "Haitian"
-    hu: "Hungarian"
-    hup: "Hupa"
-    hy: "Armenian"
-    hz: "Herero"
-    ia: "Interlingua"
-    iba: "Iban"
-    id: "Indonesian"
-    ie: "Interlingue"
-    ig: "Igbo"
-    ii: "Sichuan Yi"
-    ijo: "Ijo"
-    ik: "Inupiaq"
-    ilo: "Iloko"
-    inc: "Indic Language"
-    ine: "Indo-European Language"
-    inh: "Ingush"
-    io: "Ido"
-    ira: "Iranian Language"
-    iro: "Iroquoian Language"
-    is: "Icelandic"
-    it: "Italian"
-    iu: "Inuktitut"
-    ja: "Japanese"
-    jbo: "Lojban"
-    jpr: "Judeo-Persian"
-    jrb: "Judeo-Arabic"
-    jv: "Javanese"
-    ka: "Georgian"
-    kaa: "Kara-Kalpak"
-    kab: "Kabyle"
-    kac: "Kachin"
-    kaj: "Jju"
-    kam: "Kamba"
-    kar: "Karen"
-    kaw: "Kawi"
-    kbd: "Kabardian"
-    kcg: "Tyap"
-    kfo: "Koro"
-    kg: "Kongo"
-    kha: "Khasi"
-    khi: "Khoisan Language"
-    kho: "Khotanese"
-    ki: "Kikuyu"
-    kj: "Kuanyama"
-    kk: "Kazakh"
-    kl: "Kalaallisut"
-    km: "Khmer"
-    kmb: "Kimbundu"
-    kn: "Kannada"
-    ko: "Korean"
-    kok: "Konkani"
-    kos: "Kosraean"
-    kpe: "Kpelle"
-    kr: "Kanuri"
-    krc: "Karachay-Balkar"
-    krl: "Karelian"
-    kro: "Kru"
-    kru: "Kurukh"
-    ks: "Kashmiri"
-    ku: "Kurdish"
-    kum: "Kumyk"
-    kut: "Kutenai"
-    kv: "Komi"
-    kw: "Cornish"
-    ky: "Kirghiz"
-    la: "Latin"
-    lad: "Ladino"
-    lah: "Lahnda"
-    lam: "Lamba"
-    lb: "Luxembourgish"
-    lez: "Lezghian"
-    lg: "Ganda"
-    li: "Limburgish"
-    ln: "Lingala"
-    lo: "Lao"
-    lol: "Mongo"
-    loz: "Lozi"
-    lt: "Lithuanian"
-    lu: "Luba-Katanga"
-    lua: "Luba-Lulua"
-    lui: "Luiseno"
-    lun: "Lunda"
-    luo: "Luo"
-    lus: "Lushai"
-    lv: "Latvian"
-    mad: "Madurese"
-    mag: "Magahi"
-    mai: "Maithili"
-    mak: "Makasar"
-    man: "Mandingo"
-    map: "Austronesian Language"
-    mas: "Masai"
-    mdf: "Moksha"
-    mdr: "Mandar"
-    men: "Mende"
-    mg: "Malagasy"
-    mga: "Middle Irish"
-    mh: "Marshallese"
-    mi: "Maori"
-    mic: "Micmac"
-    min: "Minangkabau"
-    mis: "Miscellaneous Language"
-    mk: "Macedonian"
-    mkh: "Mon-Khmer Language"
-    ml: "Malayalam"
-    mn: "Mongolian"
-    mnc: "Manchu"
-    mni: "Manipuri"
-    mno: "Manobo Language"
-    mo: "Moldavian"
-    moh: "Mohawk"
-    mos: "Mossi"
-    mr: "Marathi"
-    ms: "Malay"
-    mt: "Maltese"
-    mul: "Multiple Languages"
-    mun: "Munda Language"
-    mus: "Creek"
-    mwl: "Mirandese"
-    mwr: "Marwari"
-    my: "Burmese"
-    myn: "Mayan Language"
-    myv: "Erzya"
-    na: "Nauru"
-    nah: "Nahuatl"
-    nai: "North American Indian Language"
-    nap: "Neapolitan"
-    nb: "Norwegian Bokmål"
-    nd: "North Ndebele"
-    nds: "Low German"
-    ne: "Nepali"
-    new: "Newari"
-    ng: "Ndonga"
-    nia: "Nias"
-    nic: "Niger-Kordofanian Language"
-    niu: "Niuean"
-    nl: "Dutch"
-    "nl-BE": "Flemish"
-    nn: "Norwegian Nynorsk"
-    no: "Norwegian"
-    nog: "Nogai"
-    non: "Old Norse"
-    nqo: "N’Ko"
-    nr: "South Ndebele"
-    nso: "Northern Sotho"
-    nub: "Nubian Language"
-    nv: "Navajo"
-    nwc: "Classical Newari"
-    ny: "Nyanja"
-    nym: "Nyamwezi"
-    nyn: "Nyankole"
-    nyo: "Nyoro"
-    nzi: "Nzima"
-    oc: "Occitan"
-    oj: "Ojibwa"
-    om: "Oromo"
-    or: "Oriya"
-    os: "Ossetic"
-    osa: "Osage"
-    ota: "Ottoman Turkish"
-    oto: "Otomian Language"
-    pa: "Punjabi"
-    paa: "Papuan Language"
-    pag: "Pangasinan"
-    pal: "Pahlavi"
-    pam: "Pampanga"
-    pap: "Papiamento"
-    pau: "Palauan"
-    peo: "Old Persian"
-    phi: "Philippine Language"
-    phn: "Phoenician"
-    pi: "Pali"
-    pl: "Polish"
-    pon: "Pohnpeian"
-    pra: "Prakrit Language"
-    pro: "Old Provençal"
-    ps: "Pashto"
-    pt: "Portuguese"
-    "pt-BR": "Brazilian Portuguese"
-    "pt-PT": "Iberian Portuguese"
-    qu: "Quechua"
-    raj: "Rajasthani"
-    rap: "Rapanui"
-    rar: "Rarotongan"
-    rm: "Rhaeto-Romance"
-    rn: "Rundi"
-    ro: "Romanian"
-    roa: "Romance Language"
-    rom: "Romany"
-    ru: "Russian"
-    rup: "Aromanian"
-    rw: "Kinyarwanda"
-    sa: "Sanskrit"
-    sad: "Sandawe"
-    sah: "Yakut"
-    sai: "South American Indian Language"
-    sal: "Salishan Language"
-    sam: "Samaritan Aramaic"
-    sas: "Sasak"
-    sat: "Santali"
-    sc: "Sardinian"
-    scn: "Sicilian"
-    sco: "Scots"
-    sd: "Sindhi"
-    se: "Northern Sami"
-    sel: "Selkup"
-    sem: "Semitic Language"
-    sg: "Sango"
-    sga: "Old Irish"
-    sgn: "Sign Language"
-    sh: "Serbo-Croatian"
-    shn: "Shan"
-    si: "Sinhala"
-    sid: "Sidamo"
-    sio: "Siouan Language"
-    sit: "Sino-Tibetan Language"
-    sk: "Slovak"
-    sl: "Slovenian"
-    sla: "Slavic Language"
-    sm: "Samoan"
-    sma: "Southern Sami"
-    smi: "Sami Language"
-    smj: "Lule Sami"
-    smn: "Inari Sami"
-    sms: "Skolt Sami"
-    sn: "Shona"
-    snk: "Soninke"
-    so: "Somali"
-    sog: "Sogdien"
-    son: "Songhai"
-    sq: "Albanian"
-    sr: "Serbian"
-    srn: "Sranan Tongo"
-    srr: "Serer"
-    ss: "Swati"
-    ssa: "Nilo-Saharan Language"
-    st: "Southern Sotho"
-    su: "Sundanese"
-    suk: "Sukuma"
-    sus: "Susu"
-    sux: "Sumerian"
-    sv: "Swedish"
-    sw: "Swahili"
-    syc: "Classical Syriac"
-    syr: "Syriac"
-    ta: "Tamil"
-    tai: "Tai Language"
-    te: "Telugu"
-    tem: "Timne"
-    ter: "Tereno"
-    tet: "Tetum"
-    tg: "Tajik"
-    th: "Thai"
-    ti: "Tigrinya"
-    tig: "Tigre"
-    tiv: "Tiv"
-    tk: "Turkmen"
-    tkl: "Tokelau"
-    tl: "Tagalog"
-    tlh: "Klingon"
-    tli: "Tlingit"
-    tmh: "Tamashek"
-    tn: "Tswana"
-    to: "Tonga"
-    tog: "Nyasa Tonga"
-    tpi: "Tok Pisin"
-    tr: "Turkish"
-    trv: "Taroko"
-    ts: "Tsonga"
-    tsi: "Tsimshian"
-    tt: "Tatar"
-    tum: "Tumbuka"
-    tup: "Tupi Language"
-    tut: "Altaic Language"
-    tvl: "Tuvalu"
-    tw: "Twi"
-    ty: "Tahitian"
-    tyv: "Tuvinian"
-    udm: "Udmurt"
-    ug: "Uighur"
-    uga: "Ugaritic"
-    uk: "Ukrainian"
-    umb: "Umbundu"
-    und: "Unknown or Invalid Language"
-    ur: "Urdu"
-    uz: "Uzbek"
-    vai: "Vai"
-    ve: "Venda"
-    vi: "Vietnamese"
-    vo: "Volapük"
-    vot: "Votic"
-    wa: "Walloon"
-    wak: "Wakashan Language"
-    wal: "Walamo"
-    war: "Waray"
-    was: "Washo"
-    wen: "Sorbian Language"
-    wo: "Wolof"
-    xal: "Kalmyk"
-    xh: "Xhosa"
-    yao: "Yao"
-    yap: "Yapese"
-    yi: "Yiddish"
-    yo: "Yoruba"
-    ypk: "Yupik Language"
-    za: "Zhuang"
-    zap: "Zapotec"
-    zbl: "Blissymbols"
-    zen: "Zenaga"
-    zh: "Chinese"
-    zh-Hans: "Simplified Chinese"
-    zh-Hant: "Traditional Chinese"
-    znd: "Zande"
-    zu: "Zulu"
-    zun: "Zuni"
-    zxx: "No linguistic content"
-    zza: "Zaza"
+    egn: Engenni
+    bnn: Banoni
+    ard: Arandai
+    ktk: Kotoko
+    klw: Kiliwa
+    irx: Iranxe
+    mnm: Manam
+    non: Noni
+    pil: Pileni
+    cav: Cavineña
+    koa: Koasati
+    ktu: Katu
+    tpr: Tupuri
+    sil: Sila
+    nbk: Natügu
+    mra: Mara
+    nmd: Nomad
+    cur: Curripaco
+    arx: 'Are'are
+    shs: Shasta
+    hix: Hixkaryana
+    tid: Tidore
+    lbu: Lunda
+    tkl: Takelma
+    sgb: Sougb
+    avt: Avatime
+    knp: Kanum (Ngkâlmpw)
+    knb: Kanum (Bädi)
+    win: Wintu
+    swt: Swati
+    mor: Mor
+    wir: Wirangu
+    teh: Tehuelche
+    nya: Nyawaygi
+    rag: Raga
+    lug: Lugbara
+    tai: Tuareg (Air)
+    tug: Tuareg (Ahaggar)
+    sim: Simeulue
+    baq: Baure
+    sul: Sulka
+    coa: Coahuilteco
+    gok: Gokana
+    bhu: Bhumij
+    mun: Mundari
+    slv: Slavey
+    ord: Ordos
+    ndo: Ndonga
+    pmn: Pomo (Northern)
+    far: Faroese
+    ang: Anggor
+    atk: Atakapa
+    kla: Klao
+    idu: Idu
+    mis: Miskito
+    tsi: Tsimshian (Coast)
+    sum: Mayangna
+    mon: Mon
+    cde: Carib (De'kwana)
+    kui: Kui (in India)
+    kiu: Kui (in Indonesia)
+    moj: Mojave
+    grn: Gurenne
+    ngg: Ngan'gityemerri
+    ngk: Ngankikurungkurr
+    rgn: Roglai (Northern)
+    ijo: Ijo (Kolokuma)
+    tye: Tyeraity
+    ngt: Naga (Tangkhul)
+    khk: Khakas
+    tza: Tzeltal (Aguacatenango)
+    tzb: Tzeltal (Bachajón)
+    tzt: Tzeltal (Tenejapa)
+    tze: Tzeltal
+    saa: Sa'a
+    thd: Thadou
+    krb: Kiribati
+    dmi: Dumi
+    gum: Gumbaynggir
+    ctm: Chitimacha
+    cec: Chicomuceltec
+    krg: Karanga
+    ksa: Keresan (Santa Ana)
+    oji: Ojibwa (Eastern)
+    cpw: Chippewa (Red Lake and Pillager)
+    urk: Urubú-Kaapor
+    isn: Isnag
+    max: Maxakalí
+    oca: Ocaina
+    ilo: Ilocano
+    brk: Berik
+    bbu: Barambu
+    wan: Wangkumara
+    nyn: Nyigina
+    prh: Pirahã
+    thu: Thulung
+    kmp: Kunimaipa
+    wiy: Wiyot
+    lla: Lamu-Lamu
+    paa: Pa'a
+    amk: Amarakaeri
+    sea: Southeast Ambrym
+    cyg: Cayuga
+    lov: Loven
+    yrm: Yurimangí
+    snm: Sanuma
+    yuc: Yuchi
+    mwo: Mwotlap
+    cof: Cofán
+    tpn: Tepehuan (Northern)
+    dsh: Danish
+    dab: Daba
+    otm: Otomí (Mezquital)
+    osm: Otomí (Santiago Mexquititlan)
+    oix: Otomí (Ixtenco)
+    ben: Bengali
+    bec: Bengali (Chittagong)
+    shp: Sahaptin (Northern)
+    smt: Sahaptin (Umatilla)
+    chy: Chayahuita
+    kku: Korku
+    hak: Hakka
+    hyo: Hyow
+    ho: Ho
+    tbs: Tabassaran
+    tlo: Tobelo
+    ych: Yup'ik (Chevak)
+    yun: Yup'ik (Norton Sound)
+    ypk: Yup'ik (Central)
+    mij: Miju
+    arw: Armenian (Western)
+    arm: Armenian (Eastern)
+    arz: Armenian (Iranian)
+    kpw: Karen (Pwo)
+    oka: Okanagan
+    gla: Gelao
+    agc: Agta (Central)
+    aso: Altai (Southern)
+    niu: Niuean
+    mig: Migama
+    ggu: Gureng Gureng
+    mnx: Manx
+    mlu: Maleu
+    gay: Gayo
+    ctc: Cuicatec
+    krt: Karata
+    gut: Gurma (Togo)
+    grm: Gurma
+    nab: Nabak
+    hia: Hianacoto
+    skm: Sukuma
+    yim: Yimas
+    fox: Fox
+    fin: Finnish
+    ndg: Ndogo
+    chw: Cham (Western)
+    jun: Juang
+    knn: Kinnauri
+    bgv: Bagvalal
+    ung: Ungarinjin
+    pnr: Panare
+    sup: Supyire
+    snh: Sinhala
+    mym: Malayalam
+    nau: Nauruan
+    moc: Moca
+    til: Tillamook
+    tsn: Tsonga
+    sme: Seme
+    ykt: Yakut
+    lnd: Linda
+    sao: Saho
+    mmb: Mangap-Mbula
+    bku: Bakueri
+    puk: Parauk
+    yuw: Yuwaalaraay
+    gml: Gamilaraay
+    crn: Cornish
+    nup: Nupe
+    klh: Kalasha
+    tru: Trumai
+    brw: Bru (Western)
+    bru: Bru (Eastern)
+    skn: Sikuani
+    ghb: Guahibo
+    woi: Woisika
+    dhr: Dhargari
+    rem: Remo
+    lat: Latvian
+    kug: Kunming
+    mnd: Mandarin
+    dok: Doko
+    nbe: Ngombe
+    mbe: Mbere
+    cyv: Cayuvava
+    ane: Anêm
+    mnr: Mandar
+    nsy: Neo-Aramaic (Assyrian)
+    mav: Maring
+    wyn: Wayana
+    der: Dla (Proper)
+    moh: Mohawk
+    pnn: Pangasinan
+    bbw: Bininj Gun-Wok
+    zso: Zulu (Southern)
+    zno: Zulu (Northern)
+    zul: Zulu
+    iri: Irish
+    sio: Sio
+    chi: Chimariko
+    kpo: Kposo
+    mou: Moru
+    bub: Bubi
+    aar: Aari
+    tsf: Tsafiki
+    kri: Kipea
+    myr: Matsés
+    msn: Maisin
+    cve: Chuave
+    pis: Pisa
+    sah: Sahu
+    dob: Dobel
+    usa: Usan
+    zen: Zenaga
+    bti: Betoi
+    ved: Vedda
+    kgr: Kagulu
+    run: Runga
+    kfe: Koromfe
+    yli: Yali
+    tao: Tarao
+    kya: Kuku-Yalanji
+    cqt: Chiquitano
+    lmg: Lamang
+    bhn: Bahinemo
+    cog: Cogui
+    tne: Temne
+    kmt: Kemtuik
+    mpu: Mpur
+    hmb: Huambisa
+    ysl: Yupik (St. Lawrence Island)
+    jrn: Juruna
+    mhm: Mah Meri
+    qch: Quiché
+    dou: Doutai
+    olu: Olutec
+    cem: Cèmuhî
+    tld: Talaud
+    hlp: Hualapai
+    tks: Teke (Southern)
+    vaf: Vafsi
+    tag: Tagalog
+    qaw: Qawasqar
+    dms: Dimasa
+    blq: Bole
+    yah: Yahgan
+    blk: Balantak
+    aly: Alyawarra
+    mny: Margany
+    lon: Loniu
+    awn: Awngi
+    gil: Gilaki
+    cla: Clallam
+    eml: Embaloh
+    jeb: Jebero
+    neh: Nehan
+    ntu: Nenets (Tundra)
+    nen: Nenets
+    crg: Chiriguano
+    gua: Guaraní
+    bem: Bemba
+    bna: Banawá
+    amx: Anamuxra
+    hil: Hiligaynon
+    som: Somali
+    lah: Lahu
+    ass: Assamese
+    tbl: Tabla
+    mba: Mba
+    ogb: Ogbia
+    for: Fore
+    but: Buriat
+    awt: Awtuw
+    alw: Alawa
+    nif: Niuafo'ou
+    ant: Angaatiha
+    mbt: Mangbetu
+    ura: Ura
+    mss: Miwok (Southern Sierra)
+    tbu: Tubu
+    tgl: Tshangla
+    efi: Efik
+    sba: Sáliba (in Colombia)
+    tsp: Tamil (Spoken)
+    tml: Tamil
+    luo: Luo
+    awp: Awa Pit
+    tic: Ticuna
+    pec: Pech
+    apc: Apache (Chiricahua)
+    apj: Apache (Jicarilla)
+    nyr: Nyangumarda
+    sha: Shan
+    muy: Muyuw
+    tmc: Timucua
+    twe: Tarahumara (Western)
+    tce: Tarahumara (Central)
+    ppc: Piapoco
+    dig: Digaro
+    lua: Lua
+    chp: Chipewyan
+    bni: Bini
+    jeh: Jeh
+    wai: Wai Wai
+    bhi: Bhili
+    udm: Udmurt
+    nrm: Narom
+    cmy: Chontal Maya
+    chx: Chontal (Huamelultec Oaxaca)
+    cho: Chontal (Highland)
+    ewo: Ewondo
+    tif: Tifal
+    khl: Khalaj
+    mbl: Mbole
+    lim: Limbu
+    kij: Kitja
+    iva: Ivatan
+    hnn: Hanunóo
+    mya: Ma'ya
+    mks: Makassar
+    mmu: Malay (Ulu Muar)
+    min: Minangkabau
+    poc: Pocomam Oriental
+    pcm: Poqomam
+    sru: Selaru
+    bao: Bao'an
+    guu: Guugu Yimidhirr
+    blu: Bena-Lulua
+    cil: CiLuba
+    cua: Cua
+    gah: Gahuku
+    wry: Waray (in Australia)
+    mzn: Mazanderani
+    cmx: Comox
+    mpo: Mpongwe
+    hpd: Hup
+    ysi: Yupik (Sirenik)
+    goe: Goemai
+    sry: Siraya
+    wrb: Warrnambool
+    rwa: Rawa
+    ngr: Ngarinyeri
+    tat: Tatana'
+    wor: Worora
+    lan: Lango
+    pno: Paiute (Northern)
+    bre: Breton
+    mbz: Mbe'
+    amu: Amuesha
+    fua: Fula (Cameroonian)
+    fma: Fula (Mauritanian)
+    fbf: Fula (Burkina Faso)
+    fgo: Fulani (Gombe)
+    fgu: Fula (Guinean)
+    fum: Fulfulde (Maasina)
+    fus: Fula (Senegal)
+    fni: Fula (Nigerian)
+    ain: Ainu
+    zay: Zayse
+    nnm: Nanumea
+    tvl: Tuvaluan
+    wsk: Waskia
+    mel: Melanau
+    doy: Doyayo
+    ayw: Ayiwo
+    ga: Gã
+    gun: Gunu
+    koy: Koya
+    kim: Kimaghama
+    irm: Irish (Munster)
+    ird: Irish (Donegal)
+    had: Hadza
+    dbd: Dabida
+    tng: Tongan
+    sik: Sika
+    mru: Maru
+    nep: Nepali
+    pba: Pima Bajo
+    snn: Soninke
+    jam: Jaminjung
+    kod: Kodava
+    arr: Arrernte
+    awe: Arrernte (Western)
+    amp: Arrernte (Mparntwe)
+    wuc: Wu
+    gwa: Gwari
+    tan: Tangale
+    tur: Turkish
+    bun: Buin
+    yar: Yareba
+    mrn: Maranao
+    goa: Goajiro
+    mcd: Macedonian
+    chr: Chrau
+    ach: Aché
+    obo: Obolo
+    yur: Yurok
+    bya: Byansi
+    ma: Ma
+    lrd: Lardil
+    kab: Kabardian
+    twn: Tiwa (Northern)
+    tak: Takia
+    awa: Awa
+    kad: Kadugli
+    nat: Natchez
+    ory: Orya
+    iba: Iban
+    cld: Chaldean (Modern)
+    ykp: Yukpa
+    tnl: Tanana (Lower)
+    chm: Chamalal
+    uru: Uru
+    msh: Marshallese
+    boa: Boazi
+    apu: Apurinã
+    kma: Kamaiurá
+    ksh: Kashaya
+    tiv: Tiv
+    snt: Sentani
+    lag: Lagwan
+    bnj: Bandjalang
+    gid: Gidabal
+    byu: Bandjalang (Yugumbir)
+    bca: Bandjalang (Casino)
+    bwa: Bandjalang (Waalubal)
+    nng: Nyanga
+    dhm: Dhimal
+    bys: Bayso
+    lha: Laha
+    blc: Baluchi
+    ser: Seri
+    igb: Igbo
+    see: Seediq
+    biq: Bilaan (Koronadal)
+    lac: Lacandón
+    brf: Berber (Rif)
+    khv:  Khwarshi
+    poh: Pohnpeian
+    len: Lenakel
+    kmo: Koiali (Mountain)
+    boq: Bokar
+    boj: Bori
+    gal: Galo
+    mil: Milang
+    bum: Buma
+    ayi: Anyi
+    atc: Atchin
+    pga: Pilagá
+    nit: Nitinaht
+    kmr: Kamoro
+    sug: Sungor
+    mgo: Mongo
+    tsg: Tausug
+    kwo: Kwoma
+    lui: Luiseño
+    tgk: Tigak
+    nun: Nung (in Vietnam)
+    ano: Anong
+    tmg: Tamagario
+    shm: Shambala
+    mgu: Musgu
+    mkl: Maklew
+    tbe: Tigré (Beni Amer)
+    tgr: Tigré
+    wel: Welsh
+    err: Erromangan
+    srr: Serrano
+    sae: Saek
+    die: Diegueño (Mesa Grande)
+    tja: Tiipay (Jamul)
+    kni: Konni
+    mcc: Mochica
+    nua: Nuaulu
+    bsk: Bashkir
+    chc: Chechen
+    jpr: Japreria
+    amo: Amo
+    aze: Azerbaijani
+    azi: Azari (Iranian)
+    wat: Watjarri
+    kok: Kokborok
+    grb: Grebo
+    kwa: Kwaio
+    eud: Eudeve
+    kti: Kati (in West Papua, Indonesia)
+    nan: Nandi
+    pai: Paiwan
+    ess: Esselen
+    sro: Siroi
+    can: Candoshi
+    hal: Halia
+    mkr: Mikarew
+    wao: Waorani
+    sbg: Sama (Balangingi)
+    say: Sayula Popoluca
+    brs: Barasano
+    bfd: Biafada
+    kio: Kiowa
+    trn: Terêna
+    tst: Tsat
+    muu: Mundurukú
+    sng: Sinaugoro
+    ram: Rama
+    pta: Paita
+    wog: Wogamusin
+    djn: Djinang
+    xok: Xokleng
+    mea: Meyah
+    tof: Tofa
+    loz: Lozi
+    cnt: Cantonese
+    cwe: Columbia-Wenatchi
+    hno: Haida (Northern)
+    hai: Haida
+    nhh: Nahuatl (Huasteca)
+    nhm: Nahuatl (Michoacán)
+    nhn: Nahuatl (North Puebla)
+    nht: Nahuatl (Tetelcingo)
+    nmp: Nahuatl (Milpa Alta)
+    nmi: Nahuatl (Mecayapan Isthmus)
+    nhu: Nahuatl (Huauchinango)
+    npa: Nahuatl (Pajapan)
+    nsz: Nahuatl (Sierra de Zacapoaxtla)
+    nhx: Nahuatl (Xalitla)
+    nhp: Nahuatl (Pochutla)
+    nhc: Nahuatl (Central)
+    emb: Emberá (Northern)
+    chl: Chehalis (Upper)
+    yal: Yale (Kosarek)
+    mro: Moro
+    kik: Kikuyu
+    mme: Mari (Meadow)
+    mah: Mari (Hill)
+    ing: Ingush
+    man: Mano
+    gus: Gusii
+    pen: Pengo
+    toj: Tojolabal
+    msy: Magar (Syangja)
+    mag: Magar
+    jug: Jugli
+    lun: Lungchang
+    pia: Piaroa
+    geo: Georgian
+    agr: Aguaruna
+    cch: Chocho
+    nev: Nevome
+    ood: O'odham
+    kat: Kâte
+    tnn: Tunen
+    iir: Indonesian (Papuan)
+    inj: Indonesian (Jakarta)
+    ind: Indonesian
+    gji: Gurindji
+    yns: Yansi
+    san: Sango
+    mao: Maori
+    nkn: Nkonya
+    mtu: Motu
+    ika: Ika
+    cul: Culina
+    bki: Bakairí
+    obg: Ogbronuagum
+    tmk: Tumak
+    cin: Chumash (Ineseño)
+    cba: Chumash (Barbareño)
+    tlf: Telefol
+    jlu: Luwo
+    pnu: Bunu (Younuo)
+    amz: Amuzgo
+    dam: Damana
+    fur: Fur
+    bir: Birom
+    kdg: Karipuna do Guapore
+    gmb: Guambiano
+    jwr: Jarawara
+    jmm: Jamamadi
+    lit: Lithuanian
+    yei: Yei
+    wrl: Warlpiri
+    ice: Icelandic
+    haw: Hawaiian
+    mac: Macushi
+    tnk: Tungak
+    taz: Talysh (Azerbaijan)
+    tls: Talysh (Southern)
+    nha: Nhanda
+    nze: Naga (Zeme)
+    crj: Carijona
+    umu: Umaua
+    kyo: Kanyok
+    yng: Yingkarta
+    agm: Angami
+    mdu: Mündü
+    det: Deti
+    mko: Mokilko
+    tts: Tati (Southern)
+    sra: Sranan
+    yay: Yay
+    cma: Chimila
+    ale: Aleut
+    aea: Aleut (Eastern)
+    mot: Motuna
+    mrk: Murik
+    clc: Colac
+    bar: Bari
+    kuk: Kukú
+    bgr: Bagiro
+    ets: Etsako
+    awy: Awyi
+    vep: Veps
+    daa: Da'a
+    kli: Kaili
+    rut: Rutul
+    yqy: Yaqay
+    one: One
+    mad: Ma'di
+    wol: Woleaian
+    lmn: Lamani
+    eng: English
+    hol: Holoholo
+    cyn: Cheyenne
+    kyg: Kenyang
+    amh: Amharic
+    htc: Huastec
+    isa: I'saka
+    mhc: Mahican
+    ebi: Ebira
+    wam: Wambaya
+    bet: Bété
+    new: Newari (Kathmandu)
+    nwd: Newar (Dolakha)
+    rng: Rengao
+    tla: Tolai
+    qay: Quechua (Ayacucho)
+    mcs: Miwok (Central Sierra)
+    bon: Bongu
+    tmn: Temein
+    wll: Wallisian
+    lin: Lingala
+    cha: Chamorro
+    fut: Futuna-Aniwa
+    tbt: Tobati
+    nvs: Nivkh (South Sakhalin)
+    niv: Nivkh
+    coc: Cocama
+    teo: Teop
+    nne: Nengone
+    ill: Illinois
+    wik: Wikchamni
+    ywl: Yawelmani
+    hnk: Hinuq
+    toa: Toaripi
+    oi: Oi
+    afr: Afrikaans
+    fre: French
+    moo: Mooré
+    xas: Xasonga
+    ava: Avar
+    mxa: Mixtec (Atatlahuca)
+    mxc: Mixtec (Chalcatongo)
+    mxj: Mixtec (Jicaltepec)
+    mxo: Mixtec (Ocotepec)
+    mxp: Mixtec (Peñoles)
+    mxy: Mixtec (Yosondúa)
+    mxt: Mixtec (Ayutla)
+    mxz: Mixtec (Coatzospan)
+    mja: Mixtec (Jamiltepec)
+    mxm: Mixtec (Molinos)
+    mxu: Mixtec (Chayuco)
+    mjc: Mixtec (San Juan Colorado)
+    mxl: Mixtec (Alacatlatzala)
+    tuk: Tukang Besi
+    guj: Gujarati
+    pwn: Pawnee
+    por: Portuguese
+    anj: Anejom
+    kor: Korean
+    lus: Lushootseed
+    gav: Gavião
+    cub: Cubeo
+    oko: Oriya (Kotia)
+    oya: Oriya
+    apl: Apalaí
+    dhb: Dharumbal
+    mkb: Miwok (Bodega)
+    hei: Heiltsuk
+    sue: Suena
+    krr: Kairiru
+    bnm: Binumarien
+    cga: Chaga
+    poa: Po-Ai
+    tol: Tol
+    ukr: Ukrainian
+    hwr: Hawrami
+    prt: Piratapuyo
+    gir: Gula Iro
+    kha: Khalkha
+    bul: Bulgarian
+    iwm: Iwam
+    hat: Hatam
+    ymi: Yami
+    zim: Zimakani
+    xho: Xhosa
+    yak: Yaka
+    lil: Lillooet
+    luc: Lucazi
+    wrd: Wardaman
+    cop: Coptic
+    big: Binga
+    yul: Yulu
+    brj: Burji
+    sva: Svan
+    kly: Kala Lagaw Ya
+    iaa: Iaai
+    sri: Siriano
+    pok: Poko-Rawo
+    ndi: Ngbandi
+    ygd: Dii
+    gnn: Gunin
+    kln: Kolana
+    hlu: Halkomelem (Upriver)
+    cay: Cayapa
+    nal: Nalik
+    aiz: Aizi
+    apk: A-Pucikwar
+    tmp: Tampulma
+    lar: Laragia
+    pat: Patep
+    wth: Wathawurrung
+    hmi: Huitoto (Minica)
+    deg: Degema
+    igs: Ingessana
+    ao: Ao
+    cam: Camsá
+    kyn: Koyukon
+    pau: Paumarí
+    mgd: Mongondow
+    hsl: Haisla
+    tnt: Tontemboan
+    zqc: Zoque (Copainalá)
+    zqo: Zoque (Ostuacan)
+    zfl: Zoque (Francisco León)
+    zqr: Zoque (Rayon)
+    zch: Zoque (Chimalapa)
+    ama: Amara
+    pip: Pipil
+    srl: Sorbian (Lower)
+    koi: Koiari
+    sub: Subiya
+    mde: Mende
+    kyl: Kayah Li (Eastern)
+    wal: Walman
+    yaw: Yawa
+    mhi: Marathi
+    god: Godoberi
+    slb: Saliba (in Papua New Guinea)
+    nku: Nubian (Kunuz)
+    nbd: Nubian (Dongolese)
+    gud: Gude
+    cab: Cabécar
+    kap: Kela (Apoze)
+    mar: Maricopa
+    svk: Slovak
+    shu: Shuswap
+    mrr: Maringarr
+    oku: Oku
+    ahs: Arabic (Bani-Hassan)
+    awi: Aekyom
+    atq: Alutiiq
+    emc: Embera Chami
+    mmz: Mam (Southern)
+    mam: Mam
+    tsh: Tümpisa Shoshone
+    swr: Shoshone (Wind River)
+    sho: Shoshone
+    que: Quechan
+    mov: Movima
+    mgg: Mangghuer
+    ahu: Aghu
+    tsz: Tsez
+    bbf: Bobo Madaré (Northern)
+    arb: Arabela
+    svc: Slovincian
+    ksu: Kashubian
+    tlp: Tlapanec
+    tul: Tulu
+    thy: Kuuk Thaayorre
+    shk: Shipibo-Konibo
+    tam: Tamang (Eastern)
+    sam: Samoan
+    moe: Mordvin (Erzya)
+    luy: Luyia
+    ndu: Ndumu
+    djp: Djapu
+    gmt: Gumatj
+    dda: Dhuwal (Dätiwuy)
+    gmz: Gumuz
+    mbi: Mbili
+    hre: Hre
+    ngn: Ngandi
+    bpb: Bahnar
+    mdn: Mandan
+    ign: Ignaciano
+    sob: Sobei
+    ari: Aribwatsa
+    rim: Rimi
+    jbt: Jabutí
+    wet: Wetan
+    slo: Slovene
+    ghr: Bunan
+    ats: Atsugewi
+    agw: Alagwa
+    unm: Unami
+    mwl: Miwok (Lake)
+    tsw: Tswana
+    ntj: Ngaanyatjarra
+    wdo: Western Desert (Ooldea)
+    sor: Sora
+    mup: Mupun
+    gnd: Ga'anda
+    ntn: Nateni
+    epe: Epena Pedee
+    dmk: Dumaki
+    lul: Lule
+    ckl: Chinook (Lower)
+    buw: Bulu
+    ppi: Pitta Pitta
+    msm: Musom
+    ykm: Yakoma
+    sti: Stieng
+    pol: Polish
+    nin: Ningil
+    kom: Komo
+    ady: Adyghe (Abzakh)
+    adt: Adyghe (Temirgoy)
+    ash: Adyghe (Shapsugh)
+    bil: Bilua
+    tin: Tinrin
+    bat: Batak
+    jrw: Jarawa (in Andamans)
+    sis: Sisiqa
+    wag: Wagiman
+    klz: Kalanga
+    cuu: Chuukese
+    uby: Ubykh
+    sno: Saami (Northern)
+    baj: Bajau (Sama)
+    kkn: Konkani
+    nnt: Nanticoke
+    ngz: Ngizim
+    evn: Even
+    abk: Abkhaz
+    bdk: Budukh
+    tda: Toda
+    kji: Kurmanji
+    kbl: Kabyle
+    hmr: Hamer
+    so: So
+    ymd: Yamdena
+    mtk: Matukar
+    shb: Shabo
+    wur: Waurá
+    sec: Secoya
+    wps: Wapishana
+    bit: Biatah
+    chg: Chang
+    trw: Torwali
+    hun: Hungarian
+    mse: Munsee
+    kus: Kusunda
+    rao: Rao
+    sdh: Sindhi
+    tar: Tariana
+    bbm: Bambam
+    lns: Lamnso'
+    brh: Brahui
+    krm: Karaim
+    kaq: Kaurna
+    dca: Dumagat (Casiguran)
+    ras: Rashad
+    ori: Orig
+    lga: Luangiua
+    tkm: Turkmen
+    mdb: Mudburra
+    wrw: Warrwa
+    trt: Ternate
+    dha: Dhaasanac
+    miz: Mizo
+    kyk: Kyaka
+    ena: Enga
+    abm: Alabama
+    cct: Choctaw
+    cmh: Chemehuevi
+    kot: Kota
+    bdg: Badaga
+    brn: Burunge
+    klv: Kilivila
+    irr: Irarutu
+    mmv: Mamvu
+    mrq: Marquesan
+    tgh: Tuareg (Ghat)
+    aht: Ahtna
+    kkb: Konkomba
+    dio: Diola-Fogny
+    mwn: Miwok (Northern Sierra)
+    ruk: Rukai (Tanan)
+    ark: Araki
+    ktl: Katla
+    tup: Tupi
+    yap: Yapese
+    ono: Ono
+    sta: Santa
+    cso: Chatino (Sierra Occidental)
+    cya: Chatino (Yaitepec)
+    ctt: Chatino (Tataltepec)
+    cht: Chatino (Nopala)
+    map: Mapudungun
+    mab: Maba
+    grj: Guarijío
+    cup: Cupeño
+    boi: Boiken
+    yrr: Yaruro
+    nah: Nahali
+    kmu: Khmu'
+    lot: Lotha
+    prs: Persian
+    maz: Mazahua
+    dyu: Dyula
+    pad: Padoe
+    iau: Iau
+    kby: Kabiyé
+    mau: Maung
+    ik: Ik
+    rus: Russian
+    wnb: Winnebago
+    swa: Swahili
+    mop: Mopan
+    tht: Tehit
+    tah: Tahitian
+    nor: Norwegian
+    ksr: Kisar
+    bsm: Bislama
+    hin: Hindi
+    bkr: Batak (Karo)
+    thk: Thakali
+    tnd: Tindi
+    snc: Seneca
+    bch: Berber (Chaouia)
+    ngu: Nguna
+    maw: Maninka (Western)
+    mnk: Maninka
+    wrn: Warndarang
+    cro: Crow
+    ble: Baule
+    aga: Agarabi
+    gds: Gadsup
+    rsh: Shughni
+    baf: Bafut
+    kiq: Kalmyk (Issyk-Kul)
+    kmk: Kalmyk
+    mnc: Manchu
+    beg: Begak-Ida'an
+    hya: Haya
+    sko: Skou
+    kwb: Kwerba
+    mal: Malagasy
+    res: Resígaro
+    khi: Khinalug
+    ldn: Ladin
+    laz: Laz
+    bae: Baré
+    plr: Palor
+    ttn: Tetun
+    acl: Acholi
+    lho: Lhomi
+    skk: Sikkimese
+    nnd: Nend
+    asu: Asuriní
+    akw: Akawaio
+    klm: Klamath
+    mir: Miriwung
+    tns: Tanna (Southwest)
+    wer: Weri
+    kam: Kambera
+    mom: Mombum
+    prc: Paresi
+    all: Ala'ala
+    yaz: Yazgulyam
+    ccm: Chinantec (Comaltepec)
+    cle: Chinantec (Lealao)
+    cpl: Chinantec (Palantla)
+    chq: Chinantec (Quiotepec)
+    csc: Chinantec (Sochiapan)
+    cte: Chinantec (Tepetotutla)
+    csf: Chinantec (San Felipe Usila)
+    ndt: Ndut
+    bus: Busa
+    mpa: Murrinh-Patha
+    awk: Akwa
+    kae: Kaki Ae
+    kgi: Konyagi
+    wra: Warao
+    apw: Apache (Western)
+    bas: Basaá
+    jak: Jakaltek
+    aym: Aymara (Central)
+    bvi: Bali-Vitu
+    hup: Hupa
+    twa: Twana
+    wap: Wappo
+    taf: Taiof
+    sin: Siona
+    ong: Onge
+    gmw: Gumawana
+    nmb: Nambikuára (Southern)
+    eny: Enya
+    cjo: Chichimeca-Jonaz
+    krq: Kerek
+    miy: Miya
+    ish: Ishkashmi
+    mas: Masa
+    tuv: Tuvan
+    knw: Konkow
+    tho: Thompson
+    svs: Savosavo
+    omi: Ömie
+    fye: Fyem
+    try: Tiruray
+    bsh: Bushoong
+    baa: Barai
+    kmb: Kombai
+    bez: Bezhta
+    phl: Phlong
+    sur: Sursurunga
+    orl: Orokolo
+    jia: Jiarong
+    rsu: Romansch (Sursilvan)
+    rsm: Romansch (Surmeiran)
+    rsc: Romansch (Scharans)
+    rmc: Romansch
+    juh: Ju|'hoan
+    xun: !Xun (Ekoka)
+    ngd: Ngad'a
+    tpt: Tapieté
+    sge: Songe
+    lkk: Lakkia
+    kjn: Kunjen
+    fas: Fasu
+    bor: Bora
+    cmr: Chin (Mara)
+    naj: Neo-Aramaic (Arbel Jewish)
+    naa: Neo-Aramaic (Amadiya)
+    nap: Neo-Aramaic (Persian Azerbaijan)
+    amn: Amanab
+    dma: Duma
+    mem: Manem
+    blz: Balanta
+    brm: Burmese
+    tec: Tectiteco
+    lou: Lou
+    bse: Berber (Ayt Seghrouchen Middle Atlas)
+    bma: Berber (Middle Atlas)
+    yct: Yucatec
+    mti: Barí
+    coe: Coeur d'Alene
+    tep: Tepehua (Tlachichilco)
+    kkp: Karakalpak
+    dni: Dani (Lower Grand Valley)
+    gyb: Guayabero
+    oss: Ossetic
+    bga: Benga
+    bia: Bira
+    tmr: Temiar
+    frd: Fordata
+    kei: Kei
+    kyp: Kayapó
+    khu: Khumi
+    tbr: Tabaru
+    bto: Batak (Toba)
+    mdr: Madurese
+    tga: Tangga
+    ktc: Katcha
+    ywr: Yawuru
+    frw: Frisian (Western)
+    fno: Frisian (North)
+    fea: Frisian (Eastern)
+    fri: Frisian
+    bmr: Burum
+    cap: Capanahua
+    yag: Yagua
+    tmm: Tamabo
+    gdk: Gadaba (Kondekor)
+    squ: Squamish
+    kbw: Karen (Bwe)
+    kay: Kayardild
+    cic: Chichewa
+    wmu: Wik Munkan
+    taj: Tajik
+    ksm: Kasem
+    xoo: !Xóõ
+    her: Herero
+    mke: Mekeo
+    suk: Suki
+    zqs: Popoluca (Sierra)
+    yil: Yil
+    chk: Chukchi
+    fiw: Fijian (Wayan)
+    fij: Fijian
+    dyi: Dyirbal
+    bii: Biri
+    cme: Cham (Eastern)
+    jom: Jomang
+    bal: Balinese
+    knk: Kanakuru
+    bam: Bambara
+    mds: Manadonese
+    ktp: Ketapang
+    myk: Malay (Kuala Lumpur)
+    kuy: Kutai
+    mly: Malay
+    nnn: Nuni (Northern)
+    sod: Soddo
+    ixi: Ixil
+    mdz: Mada (in Nigeria)
+    hav: Havasupai
+    tik: Tikar
+    sun: Sundanese
+    lml: Limilngan
+    yel: Yelî Dnye
+    kwn: Kwangali
+    nge: Ngemba
+    mbu: Manambu
+    thw: Thao
+    kwr: Kwamera
+    rmb: Rembarnga
+    mri: Moraori
+    bdc: Berbice Dutch Creole
+    aji: Ajië
+    pag: Pagu
+    khw: Khowar
+    mnt: Mentawai
+    nde: Nande
+    mos: Mosetén
+    kpe: Kpelle
+    ore: Orejón
+    iso: Isoko
+    muo: Muong
+    src: Sarcee
+    ndy: Ndyuka
+    kaz: Kazakh
+    tow: Toussian (Win)
+    tou: Toussian
+    hay: Hayu
+    ron: Ron
+    rnd: Rundi
+    mlt: Maltese
+    dua: Duala
+    cad: Caddo
+    xam: /Xam
+    izi: Izi
+    sir: Siar
+    noo: Noon
+    blr: Belorussian
+    bnw: Baniwa
+    wak: Wakhi
+    beo: Beothuk
+    gur: Gurung
+    als: Alsea
+    yrc: Yuracare
+    nkk: Nakkara
+    osa: Osage
+    amr: Arabic (Moroccan)
+    atu: Arabic (Tunisian)
+    ael: Arabic (Eastern Libyan)
+    abb: Arabic (Chadian)
+    arn: Arabic (Borno Nigerian)
+    pak: Pakanha
+    scs: Saami (Central-South)
+    gdr: Gidar
+    chv: Chuvash
+    mby: Mbay
+    gbk: Gbaya Kara
+    gbb: Gbeya Bossangoa
+    mdo: Mbodomo
+    neg: Negidal
+    duk: Duka
+    tgw: Tarangan (West)
+    bco: Bella Coola
+    ban: Bana
+    bka: Baka (in South Sudan)
+    bak: Baka (in Cameroon)
+    sol: Solon
+    tub: Tubar
+    kwz: Kwaza
+    kek: K'ekchí
+    zhn: Zhuang (Northern)
+    tnc: Tanacross
+    dag: Daga
+    adi: Adioukrou
+    fon: Fongbe
+    bua: Burarra
+    aul: Aulua
+    rot: Rotuman
+    tmu: Tat (Muslim)
+    bsr: Basari
+    mwp: Miwok (Plains)
+    tbb: Tübatulabal
+    yba: Yamba
+    mno: Mono (in United States)
+    moa: Mono-Alu
+    plh: Paulohi
+    slr: Salar
+    yid: Yidiny
+    knu: Konua
+    shi: Shiriana
+    ctl: Catalan
+    gna: Guana
+    siu: Siuslaw
+    aml: Ambae (Lolovoli Northeast)
+    mut: Mutsun
+    lis: Lisu
+    mcg: Macaguán
+    mdl: Matngele
+    coi: Chortí
+    cku: Chinook (Upper)
+    bin: Binandere
+    har: Haruai
+    udh: Udihe
+    car: Carib
+    ren: Rendille
+    cln: Cholón
+    ewa: Ewe (Anglo)
+    ewe: Ewe
+    acn: Achang
+    bgl: Buglere
+    ayo: Ayomán
+    yms: Yemsa
+    kss: Kisi (Southern)
+    kis: Kisi
+    itz: Itzaj
+    han: Hani
+    zha: Zhang-Zhung
+    mak: Makah
+    hok: Hokkien
+    chz: Chaozhou
+    tuy: Tuyuca
+    gaa: Gaagudju
+    mmw: Mambwe
+    ald: Alladian
+    tki: Tuki
+    kut: Kutenai
+    tor: Toratán
+    bnr: Bilinarra
+    ngy: Ngarinyman
+    toy: Tasmanian (Oyster Bay to Pitwater)
+    tsm: Tasmanian
+    meh: Mehri
+    hrs: Harsusi
+    bth: Bathari
+    jib: Jibbali
+    soq: Soqotri
+    lgi: Langi
+    may: Maybrat
+    kmj: Karimojong
+    biu: Bisu
+    zap: Zapotec (Mitla)
+    zsq: Zapotec (San Lucas Quiaviní)
+    zai: Zapotec (Isthmus)
+    zya: Zapotec (Yatzachi)
+    zaq: Zapotec (Quiegolani)
+    zzo: Zapotec (Zoogocho)
+    zaj: Zapotec (Juárez)
+    zam: Zapotec (Mixtepec)
+    zpi: Zapotec (Ixtlan)
+    zte: Zapotec (Texmelucan)
+    muh: Muher
+    pra: Prasuni
+    tet: Tetela
+    day: Day
+    bmb: Bimoba
+    pal: Palauan
+    urn: Urarina
+    rum: Rumu
+    ksp: Kosop
+    irq: Iraqw
+    trr: Tairora
+    toz: Tonga (in Zambia)
+    mrt: Martuthunira
+    nob: Nobiin
+    qui: Quileute
+    izh: Izhor
+    diz: Dizi
+    kob: Kobon
+    kaj: Kaure
+    tmo: Tibetan (Modern Literary)
+    tod: Tod
+    tis: Tibetan (Shigatse)
+    tib: Tibetan (Standard Spoken)
+    oir: Oirat
+    tna: Turkana
+    yaq: Yaqui
+    stl: Santali
+    giz: Giziga
+    nar: Nara (in Ethiopia)
+    nza: Nzakara
+    crt: Chorote
+    kpn: Kapingamarangi
+    hma: Hmar
+    mrd: Marind
+    yor: Yoruba
+    sar: Sare
+    guq: Guaque
+    bee: Beembe
+    avo: Avokaya
+    kdw: Kadiwéu
+    urh: Urhobo
+    ork: Orok
+    nia: Nias
+    swv: Swedish (Västerbotten)
+    swe: Swedish
+    tnj: Tanaina
+    orc: Oroch
+    bla: Blackfoot
+    nel: Nelemwa
+    kem: Kemant
+    kms: Kamass
+    tuc: Tucano
+    sgl: Sengele
+    tas: Tashlhiyt
+    eip: Eipo
+    cpn: Chepang
+    dhw: Dharawal
+    bzi: Bauzi
+    vag: Vagla
+    ocu: Ocuilteco
+    bag: Bagirmi
+    idn: Iduna
+    psm: Passamaquoddy-Maliseet
+    heh: Hehe
+    plk: Palikur
+    api: Apinayé
+    ria: Riantana
+    klk: Koh (Lakka)
+    kxo: Kxoe
+    pso: Pomo (Southeastern)
+    lel: Lele
+    lgt: Logoti
+    dri: Dari
+    bkd: Binukid
+    acm: Achumawi
+    abz: Abaza
+    cbo: Chácobo
+    any: Anywa
+    ata: Atayal
+    akl: Aklanon
+    rtk: Rotokas
+    kje: Koreguaje
+    kak: Kamano-Kafe
+    tgo: Tsogo
+    mwb: Manobo (Western Bukidnon)
+    mga: Mondunga
+    tsr: Taushiro
+    lda: Luganda
+    pow: Powhatan
+    kaw: Kaiwá
+    mnv: Minaveha
+    nkr: Nukuoro
+    pre: Pare
+    che: Cherokee
+    msk: Masakin
+    isi: Isirawa
+    pdp: Folopa
+    kou: Kom
+    wrs: Waris
+    nak: Nakanai
+    coo: Coos (Hanis)
+    kal: Kalami
+    jpn: Japanese
+    lep: Lepcha
+    drg: Dargwa
+    ayr: Ayoreo
+    ror: Roro
+    tir: Tiriyo
+    tzs: Tzotzil (San Andrés)
+    tzz: Tzotzil (Zinacantán)
+    tzo: Tzotzil
+    grt: Gorontalo
+    tha: Thai
+    onn: Onondaga
+    goo: Gooniyandi
+    esm: Esmeraldeño
+    cnm: Canamarí
+    kkw: Karankawa
+    dbw: Dan (Blowo)
+    dan: Dan
+    aco: Acoma
+    hln: Halang
+    mki: Mikasuki
+    mtt: Massachusett
+    jad: Jad
+    wtm: Watam
+    pir: Piro
+    swi: Sawai
+    nue: Nuer
+    pna: Pamona
+    bno: Waimaha
+    wnt: Wantoat
+    bho: Bhojpuri
+    akk: Aka-Kede
+    mic: Micmac
+    atm: Atacameño
+    ngl: Ngalakan
+    wob: Wobe
+    lmh: Lamaholot
+    brr: Bororo
+    krc: Karachay-Balkar
+    mid: Midob
+    els: Elseng
+    amq: Ambai
+    mud: Mundani
+    nga: Nganasan
+    ycn: Yucuna
+    ter: Tera
+    nbr: Ngäbere
+    lob: Lobi
+    way: Wayampi
+    ora: Emai
+    olm: Oloh Mangtangai
+    kry: Koryak
+    klb: Kilba
+    dgi: Dogri
+    cre: Cree (Plains)
+    mgh: Magahi
+    tgp: Tanglapui
+    kel: Kele
+    agu: Aguacatec
+    bur: Burushaski
+    oks: Oksapmin
+    tum: Tumleo
+    ina: Inanwatan
+    yny: Yanyuwa
+    sgr: Sangir
+    gku: Gününa Küne
+    nma: Naga (Mao)
+    rga: Ronga
+    lye: Lyele
+    pme: Pomo (Eastern)
+    cut: Cuitlatec
+    tap: Taiap
+    bob: Bobangi
+    nad: Nadëb
+    hid: Hidatsa
+    tzu: Tzutujil
+    yin: Yindjibarndi
+    cly: Chulym
+    pem: Pemon
+    yan: Yana
+    juk: Jukun
+    kbu: Kanembu
+    anx: Andi
+    acu: Achuar
+    uku: Upper Kuskokwim
+    wic: Wichita
+    nav: Navajo
+    knm: Kunama
+    nkt: Nyah Kur (Tha Pong)
+    sed: Sedang
+    shl: Shilluk
+    krl: Karelian
+    tse: Timorese
+    jcr: Jamaican Creole
+    tau: Tauya
+    nyl: Nyelâyu
+    shh: Sharanahua
+    kbo: Kambot
+    cri: Crimean Tatar
+    myi: Mangarrayi
+    fio: Fiote
+    kon: Kongo
+    gap: Gapapaiwa
+    gnb: Gunbalang
+    obk: Obokuitai
+    wgl: Waigali
+    dul: Dulong
+    ibi: Ibibio
+    sud: Sudest
+    kau: Kaulong
+    hum: Huitoto (Murui)
+    bsi: Berber (Siwa)
+    hhu: Hanga Hundi
+    mua: Makua
+    xar: Xârâcùù
+    lau: Lau
+    mkg: Mandinka (Gambian)
+    mdk: Mandinka
+    buj: Bujeba
+    crp: Carapana
+    tes: Teso
+    aci: Achí
+    bsq: Basque
+    bqb: Basque (Bidasoa Valley)
+    bqg: Basque (Gernica)
+    bqh: Basque (Hondarribia)
+    bql: Basque (Lekeitio)
+    bqn: Basque (Northern High Navarrese)
+    bqo: Basque (Oñati)
+    bqr: Basque (Roncalese)
+    bqs: Basque (Sakana)
+    bso: Basque (Souletin)
+    bqz: Basque (Zeberio)
+    bqi: Basque (Basaburua and Imoz)
+    mgn: Magindanao
+    akc: Aka-Cari
+    gcy: Greek (Cypriot)
+    grk: Greek (Modern)
+    wed: Wedau
+    mer: Meryam Mir
+    des: Desano
+    mok: Mokilese
+    png: Pangwa
+    ldo: Londo
+    est: Estonian
+    kre: Kresh
+    abi: Abipón
+    kte: Kete
+    akr: Arikara
+    pan: Panjabi
+    jem: Jemez
+    mtl: Mattole
+    lai: Lai
+    ttu: Tsova-Tush
+    mhk: Mehek
+    dts: Toro So
+    dds: Donno So
+    koo: Kola
+    dja: Djabugay
+    taw: Tawala
+    mrw: Muruwari
+    agt: Anguthimri
+    ven: Venda
+    kai: Kaian
+    gol: Gola
+    tni: Tinani
+    lmb: Lamba
+    tiw: Tiwi
+    akh: Akha
+    cah: Cahuilla
+    ken: Kenga
+    dga: Dagaare
+    lu: Lü
+    grr: Garrwa
+    kyq: Kyuquot
+    nuu: Nuuchahnulth
+    srm: Saramaccan
+    oma: Omagua
+    bnk: Bankon
+    wlm: Walmatjari
+    ber: Berta
+    blt: Balti
+    prk: Purki
+    gdi: Godié
+    dun: Duna
+    mmp: Mampruli
+    qim: Quechua (Imbabura)
+    qhu: Quechua (Huallaga)
+    qec: Quechua (Ecuadorean)
+    ret: Retuarã
+    agl: Aghul
+    bgo: Bongo
+    kga: Kinga
+    alu: Alutor
+    dgx: Degexit'an
+    otr: Otoro
+    lnw: Lonwolwol
+    nkb: Ngalkbun
+    dug: Dullay (Gollango)
+    jmo: Jur Mödö
+    pog: Pogoro
+    olo: Olo
+    wrk: Warekena
+    kun: Kuna
+    stn: Sotho (Northern)
+    bnd: Bandi
+    knr: Kanuri
+    ila: Ila
+    gar: Garo
+    kse: Koyraboro Senni
+    kch: Koyra Chiini
+    toq: Toqabaqita
+    mrg: Margi
+    mda: Mada (in Cameroon)
+    yir: Yir Yiront
+    zun: Zuni
+    lez: Lezgian
+    dgb: Dagbani
+    qaf: Qafar
+    auy: Auyana
+    usr: Usarufa
+    nax: Naxi
+    alb: Albanian
+    dim: Dime
+    cmc: Comecrudo
+    url: Urak Lawoi'
+    mco: Mixe (Coatlán)
+    mth: Mixe (Tlahuitoltepec)
+    mtp: Mixe (Totontepec)
+    dhi: Dhivehi
+    paw: Pawaian
+    sal: Salinan
+    mkn: Mankanya
+    krf: Korafe
+    nis: Nyishi
+    mle: Maale
+    kpm: Kapampangan
+    grs: Garus
+    adn: Adynyamathanha
+    kzh: Kam (Zhanglu)
+    don: Dong (Southern)
+    mwe: Mwera
+    kho: Khoekhoe
+    bkt: Brokskat
+    sav: Savi
+    sna: Shina
+    sht: Shatt
+    mng: Manggarai
+    crh: Chru
+    yta: Yurt Tatar
+    tlb: Tatar-Noghay (Alabugat)
+    nok: Noghay (Karagash)
+    nog: Noghay
+    jah: Jahai
+    rwe: Romani (Welsh)
+    rka: Romani (Kalderash)
+    rav: Romani (Ajia Varvara)
+    rnr: Romani (North Russian)
+    rbu: Romani (Bugurdzi)
+    rlo: Romani (Lovari)
+    rbg: Romani (Burgenland)
+    rse: Romani (Sepecides)
+    nnk: Nankina
+    cas: Cashibo
+    lur: Luri
+    kgu: Kalkatungu
+    uyg: Uyghur
+    mit: Mituku
+    hwc: Hawaiian Creole
+    gro: Guro
+    maa: Maasai
+    nro: Nharo
+    ktz: Kati (in Afghanistan)
+    crk: Creek
+    khg: Khaling
+    mta: Mentuh Tapuh
+    anc: Angas
+    eya: Eyak
+    rru: Runyoro-Rutooro
+    iwa: Iwaidja
+    hrr: Harari
+    yes: Yessan-Mayo
+    tab: Taba
+    mgl: Mingrelian
+    pkm: Pokomchí
+    slp: Selepet
+    ddf: Daju (Dar Fur)
+    trd: Toraja
+    kil: Kiluba
+    gll: Galela
+    cze: Czech
+    pot: Potawatomi
+    wya: Wyandot
+    psh: Pashto
+    mcn: Macuna
+    kuv: Kuvi
+    raw: Rawang
+    ngb: Ngbaka (Minagende)
+    ttb: Tatar (Baraba)
+    tmi: Tatar (Mishar)
+    tvo: Tatar
+    lao: Lao
+    ute: Ute
+    put: Paiute (Southern)
+    lma: Loma
+    trg: Tewa (Rio Grande)
+    tsj: Tewa (San Juan Pueblo)
+    tew: Tewa (Arizona)
+    vat: Vata
+    def: Defaka
+    mcv: Mocoví
+    sel: Selknam
+    pam: Pame
+    kjr: Koorete
+    ssa: Sisaala
+    lch: Lachi
+    ton: Tonkawa
+    skw: Shekhawati
+    srd: Sardinian
+    koh: Kohumono
+    wbn: Wambon
+    bgs: Baga Sitemu
+    diy: Diyari
+    vai: Vai
+    seb: Sebei
+    mku: Maranungku
+    rov: Roviana
+    nez: Nez Perce
+    gog: Gogodala
+    dad: Dadibi
+    ful: Fulniô
+    hoa: Hoava
+    khs: Khasi
+    kfy: Kirghiz (Fu-Yu)
+    kgz: Kirghiz
+    ckh: Cheke Holo
+    kie: Kire
+    ccp: Cocopa
+    nju: Nyungar
+    awd: Awadhi
+    kef: Kefa
+    kow: Ko (Winye)
+    omh: Omaha
+    mto: Malto
+    tob: Toba
+    shr: Shor
+    krz: Kryz
+    bol: Bolia
+    nto: Ntomba
+    jaq: Jaqaru
+    shn: Shona
+    oro: Orokaiva
+    abn: Arabana
+    kas: Kashmiri
+    lok: Loko
+    mug: Bargam
+    dhu: Dhurga
+    edo: Edolo
+    tll: Taulil
+    koe: Koegu
+    rik: Rikbaktsa
+    jab: Jabêm
+    pop: Popoloca (Metzontla)
+    psj: Popoloca (San Juan Atzingo)
+    psv: Popoloca (San Vicente Coyotepec)
+    bnb: Bunuba
+    lgu: Longgu
+    ath: Athpare
+    kwe: Kanjobal (Western)
+    kea: Kanjobal (Eastern)
+    tso: Tsou
+    grw: Greenlandic (West)
+    gre: Greenlandic (East)
+    gso: Greenlandic (South)
+    smj: Semai
+    ylm: Yelmek
+    alk: Arop-Lokep
+    pms: Paamese
+    buy: Buli (in Ghana)
+    bui: Buli (in Indonesia)
+    gue: Guere
+    mkd: Makonde
+    tig: Tigrinya
+    eja: Ejagham
+    sre: Sre
+    plb: Polabian
+    yzv: Yazva
+    kzy: Komi-Zyrian
+    noc: Nocte
+    wrm: Warembori
+    blx: Biloxi
+    mof: Mofu-Gudur
+    adz: Adzera
+    bac: Bachamal
+    trc: Trique (Chicahuaxtla)
+    tri: Trique (Copala)
+    ski: Saami (Kildin)
+    krn: Korana
+    chh: Chaha
+    spc: Spanish (Canary Islands)
+    ast: Asturian
+    spa: Spanish
+    gag: Gagauz
+    kar: Kara (in Central African Republic)
+    kra: Kara (in Papua New Guinea)
+    shy: Shira Yughur
+    kmn: Kuman
+    gln: Golin
+    tba: Tabare
+    zan: Zande
+    bud: Buduma
+    shw: Shawnee
+    kir: Kirma
+    itw: Itawis
+    wwy: Waray-Waray
+    mai: Maithili
+    dym: Dyimini
+    gae: Gaelic (Scots)
+    sab: Sa'ban
+    bik: Biak
+    tua: Tuamotuan
+    msc: Muisca
+    tem: Tem
+    hnd: Hunde
+    wrg: Warrgamay
+    kur: Kurukh
+    hui: Huichol
+    pur: Purépecha
+    zaz: Zazaki
+    msl: Masalit
+    pac: Pacoh
+    mpr: Maipure
+    boz: Bozo (Tigemaxo)
+    nbo: Nyambo
+    ame: Amele
+    cax: Campa (Axininca)
+    yrt: Yuruti
+    djr: Djaru
+    mlm: Mlabri (Minor)
+    trb: Teribe
+    drm: Darma
+    war: Wari'
+    ene: Enets
+    cac: Cacua
+    kos: Kosraean
+    kta: Koita
+    nai: Nanai
+    iqu: Iquito
+    gdb: Gutob
+    tgb: Tagbanwa (Aborlan)
+    tpi: Tok Pisin
+    mrh: Marrithiyel
+    mgi: Magi
+    gpz: German (Appenzell)
+    gba: German (Bavarian)
+    gbl: German (Berlin)
+    gbe: German (Bern)
+    gha: German (Hannover)
+    gma: German (Mansfeldisch)
+    gos: German (Ostschweiz)
+    grp: German (Ripuarian)
+    gth: German (Thuringian)
+    gti: German (Timisoara)
+    gau: German (Upper Austrian)
+    gwe: German (Westphalian)
+    gzu: German (Zurich)
+    gvi: German (Viennese)
+    gtg: German (Thurgau)
+    ger: German
+    mee: Me'en
+    cvc: Chavacano
+    pui: Puinave
+    bnl: Banggarla
+    leb: Lebeo
+    tun: Tunica
+    sgu: Sangu
+    ktn: Ketengban
+    mpy: Mapoyo
+    knq: Kriol (Ngukurr)
+    sml: Semelai
+    abo: Arbore
+    nyi: Nyimang
+    nag: Nagatman
+    guh: Guhu-Samane
+    deu: Deuri
+    per: Pero
+    gno: Guanano
+    chb: Chambri
+    bos: Bosnian
+    scr: Serbian-Croatian
+    mul: Mulao
+    kky: Kankanay
+    grg: Gurr-goni
+    mla: Mambila
+    mbo: Monumbo
+    chu: Nivacle
+    cum: Chumburung
+    myn: Ma'anyan
+    nym: Nyamwezi
+    bis: Bisa
+    kna: Karitiâna
+    tim: Timugon
+    kyr: Karkar-Yuri
+    brc: Boruca
+    snd: Senadi
+    liv: Liv
+    ptw: Patwin
+    cak: Cakchiquel
+    nim: Nimboran
+    krj: Karadjeri
+    wlw: Warluwara
+    aba: Abau
+    bau: Bau
+    sen: Sena
+    bad: Bade
+    chs: Chin (Siyin)
+    mlc: Malacca Creole
+    rnn: Rennellese
+    lav: Lavukaleve
+    mii: Miisiirii
+    tma: Tama
+    hcr: Haitian Creole
+    mce: Mískito Coast English Creole
+    bou: Berber (Wargla)
+    ace: Acehnese
+    ifm: Ifumu
+    akn: Akan
+    kit: Kitsai
+    wah: Wahgi
+    sto: Stoney
+    dak: Dakota
+    wem: Wembawemba
+    hmo: Hmong Njua
+    hmd: Hmong Daw
+    gel: Gela
+    mll: Molala
+    pap: Papiamentu
+    yyg: Yaygir
+    kro: Krongo
+    ceb: Cebuano
+    aro: Arosi
+    ctw: Catawba
+    gon: Gondi
+    ham: Hamtai
+    agh: Aghem
+    pla: Playero
+    nnc: Nancowry
+    nca: Nicobarese (Car)
+    nic: Nicobarese
+    kol: Kolami
+    ptp: Patpatar
+    bry: Baruya
+    rit: Ritharngu
+    axv: Akhvakh
+    vie: Vietnamese
+    kng: Kaingang
+    una: Una
+    mrl: Murle
+    ond: Oneida
+    gul: Gula (in Central African Republic)
+    pte: Paite
+    nbb: Nambas (Big)
+    yki: Yuki
+    ann: Anindilyakwa
+    khm: Khmer
+    ker: Kera
+    ytu: Yukaghir (Tundra)
+    yko: Yukaghir (Kolyma)
+    nyh: Nyiha
+    hve: Huave (San Mateo del Mar)
+    pod: Podoko
+    mne: Maidu (Northeast)
+    thp: Thaypan
+    was: Washo
+    uma: Uma
+    kul: Kullo
+    gam: Gamo
+    wly: Wolaytta
+    pkt: Pokot
+    bnt: Bantik
+    itn: Italian (Napolitanian)
+    itu: Italian (Turinese)
+    ifi: Italian (Fiorentino)
+    itb: Italian (Bologna)
+    itg: Italian (Genoa)
+    ita: Italian
+    maj: Majang
+    akb: Aka-Biada
+    tno: Tondano
+    kws: Kawaiisu
+    lak: Lak
+    btk: Bontok
+    amc: Amahuaca
+    uzn: Uzbek (Northern)
+    uzb: Uzbek
+    ana: Araona
+    ige: Igede
+    yyo: Yorta Yorta
+    rti: Roti
+    tpc: Tepecano
+    cuc: Cuica
+    gto: Guató
+    ket: Ket
+    chd: Chaudangsi
+    bgg: Banggai
+    yna: Yupik (Naukan)
+    tbw: Tabwa
+    yok: Yokuts (Yaudanchi)
+    dah: Dahalo
+    knd: Kannada
+    mbm: Mbum
+    crq: Carrier
+    gfr: Guianese French Creole
+    sey: Seychelles Creole
+    lcr: Lesser Antillean French Creole
+    mqc: Martinique Creole
+    buu: Buru
+    alc: Allentiac
+    urd: Urdu
+    nyk: Nyamkad
+    yam: Yaminahua
+    mna: Muna
+    bjs: Sama (Southern)
+    mns: Mansi
+    lux: Luxemburgeois
+    cui: Cuiba
+    orm: Ormuri
+    apt: Apatani
+    ptt: Pattani
+    sle: Samba Leko
+    mca: Maca
+    krk: Karok
+    bmz: Berber (Mzab)
+    hem: Hemba
+    tel: Telugu
+    sui: Sui
+    mjk: Manjaku
+    chj: Chuj
+    fef: Fe'fe'
+    wrp: Waropen
+    abw: Abenaki (Western)
+    aho: Arapaho
+    jng: Jingpho
+    ldu: Lendu
+    nti: Ngiti
+    kan: Kana
+    kll: Kaluli
+    ido: Idoma
+    uli: Ulithian
+    hba: Hebrew (Modern Ashkenazic)
+    heb: Hebrew (Modern)
+    mlk: Malakmalak
+    rad: Rade
+    dgo: Dongo
+    mae: Mae
+    nse: Nsenga
+    leg: Lega
+    klg: Kulung
+    kmh: Kham
+    qia: Qiang
+    mzh: Mazatec (Huautla)
+    mzc: Mazatec (Chiquihuitlán)
+    ixc: Ixcatec
+    hau: Hausa
+    den: Dení
+    wma: West Makian
+    skp: Selkup
+    ykn: Yakan
+    ksg: Karen (Sgaw)
+    prd: Parji (Dravidian)
+    ape: Ampeeli
+    bkn: Bakundu
+    glc: Galician
+    cor: Cora
+    pkn: Paakantyi
+    mdg: Mundang
+    klq: Kalam
+    iat: Iatmul
+    srn: Sirionó
+    thn: Thangmi
+    kwk: Kwakw'ala
+    rej: Rejang
+    dbr: Dutch (Brabantic)
+    dli: Dutch (Limburg)
+    duz: Dutch (Zeeuws)
+    dut: Dutch
+    wwr: Woiwurrung
+    kba: Kamba
+    cpa: Campa Pajonal Asheninca
+    cnl: Canela
+    ckr: Canela-Krahô
+    abd: Abidji
+    adk: Andoke
+    aja: Aja
+    vot: Votic
+    alx: Alas
+    beb: Benabena
+    mum: Mumuye
+    wau: Waunana
+    men: Menomini
+    dre: Drehu
+    mog: Moghol
+    kuo: Kuot
+    gad: Gade
+    nam: Namia
+    ese: Ese Ejja
+    iql: Inuktitut (Quebec-Labrador)
+    ins: Inuktitut (Salluit)
+    kpa: Kpan
+    aik: Aikaná
+    cml: Camling
+    bro: Broken
+    mgk: Mungaka
+    nsn: Nisenan
+    mnu: Mun
+    mie: Mien
+    saw: Sawu
+    sou: Sorbian (Upper)
+    xav: Xavánte
+    dji: Djingili
+    nyu: Nyulnyul
+    nke: Nkem
+    kls: Kalispel
+    kbr: Kayan (Baram)
+    tus: Tuscarora
+    dum: Dumo
+    yav: Yavapai
+    sap: Sapuan
+    khr: Kharia
+    rom: Romanian
+    ngj: Ngadjumaja
+    yem: Yemba
+    gdf: Guduf
+    ssh: Shinassha
+    cmk: Chemakum
+    tny: Tenyer
+    klt: Kelabit
+    wlf: Wolof
+    gim: Gimira
+    hop: Hopi
+    sia: Siane
+    ses: Sesotho
+    nom: Nomatsiguenga
+    tty: Tatuyo
+    ulc: Ulcha
+    kin: Kinyarwanda
+    ara: Arawak
+    lrk: Larike
+    mmn: Mamanwa
+    jiv: Jivaro
+    mui: Muinane
+    laf: Lafofa
+    orh: Oromo (Harar)
+    orw: Oromo (Waata)
+    orb: Oromo (Boraana)
+    owc: Oromo (West-Central)
+    bod: Bodo
+    aeg: Arabic (Egyptian)
+    arg: Arabic (Gulf)
+    arq: Arabic (Iraqi)
+    arl: Arabic (Lebanese)
+    ako: Arabic (Kormakiti)
+    ars: Arabic (San'ani)
+    abh: Arabic (Bahrain)
+    apa: Arabic (Palestinian)
+    arh: Arabic (Hijazi)
+    arv: Arabic (Negev)
+    asy: Arabic (Syrian)
+    abe: Arabic (Beirut)
+    anl: Arabic (North Levantine Spoken)
+    blg: Balangao
+    ite: Itelmen
+    gwo: Gworok
+    tli: Tlingit
+    naf: Nafaanra
+    uri: Urim
+    ynm: Yanomámi
+    eka: Ekari
+    sdw: Sandawe
+    occ: Occitan
+    pro: Provençal
+    gho: Ghotuo
+    luv: Luvale
+    mbb: Mbabaram
+    dng: Ding
+    bej: Beja
+    aln: Alune
+    bmn: Bamun
+    bng: Qaget
+    mli: Mali
+    iha: Iha
+    wn: Wik Ngathana
+    eno: Enggano
+    ygn: Yaghnobi
+    lew: Lewo
+    mch: Machiguenga
+    mbg: Mbugu
+    gjj: Guajajara
+    foe: Foe
+    bpa: Bura-Pabir
+    au: Au
+    ala: Alamblak
+    dnw: Dangaléat (Western)
+    amb: Ambulas
+    lad: Ladakhi
+    cai: Chai
+    trm: Tirmaga
+    mni: Moni
+    tbo: Tboli
+    sak: Sakao
+    ydl: Yiddish (Lodz)
+    ydb: Yiddish (Bessarabian)
+    ylt: Yiddish (Lithuanian)
+    ydd: Yiddish
+    nas: Nasioi
+    lud: Lun Dayeh
+    csh: Cashinahua
+    tac: Tacana
+    kuq: Kumyk
+    gbc: Guinea Bissau Crioulo
+    bri: Bribri
+    kao: Karao
+    mus: Mussau
+    lum: Lummi
+    sch: Saanich
+    soo: Sooke
+    sgs: Songish
+    sss: Salish (Samish Straits)
+    sst: Salish (Straits)
+    pmc: Pomo (Central)
+    yao: Yao (in Malawi)
+    oto: Oto
+    crl: Carolinian
+    pul: Puluwat
+    bim: Bima
+    jav: Javanese
+    bab: Babungo
+    udi: Udi
+    umb: UMbundu
+    kgm: Kagoma
+    ibn: Ibanag
+    kty: Khanty
+    npu: Napu
+    anu: Anufo
+    col: Chol
+    eve: Evenki
+    bln: Bilin
+    acg: Achagua
+    kew: Kewa
+    bug: Bugis
+    tsa: Tsakhur
+    kmi: Kami
+    ito: Itonama
+    kda: Konda
+    mtb: Matuumbi
+    mkz: Makaa
+    mik: Mikir
+    mey: Menya
+    dol: Dolgan
+    brb: Bariba
+    arc: Archi
+    bid: Bidiya
+    cmn: Comanche
+    sus: Susu
+    ngm: Ngambay
+    txj: Totonac (Xicotepec de Juárez)
+    tpa: Totonac (Papantla)
+    tot: Totonac (Misantla)
+    tos: Totonac (Sierra)
+    hzb: Hunzib
+    nug: Nunggubuyu
+    kth: Kutchin
+    ndj: Ndjébbana
+    rap: Rapanui
+    tok: Tarok
+    wlo: Wolio
+    lmp: Lampung
+    pae: Páez
+    kkt: Kokota
+    bra: Brao
+    kaa: Karó (Arára)
+    ami: Amis
+    ked: Kedang
+    tut: Tutchone (Northern)
+    glp: Gaalpu
+    zpr: Zaparo
+    tte: Tutelo
+    dgr: Dagur
+    mei: Meithei
+    dat: Datooga
+    mge: Mnong (Eastern)
+    meb: Melayu Betawi
+    qta: Quechua (Tarma)
+    lal: Lalo
+    mwc: Mawchi
+    msg: Mising
+    baw: Bawm
+    git: Gitksan
+    xia: Xiamen
+    nyg: Nyangi
+    eko: Ekoti
+    inu: Iñupiaq
+    mma: Mandaic (Modern)
+    tps: Tepehuan (Southeastern)
+    mlg: Malgwa
+    ojm: Ojibwe (Minnesota)
+    wch: Wichí
+    bnq: Beng
+    akm: Arakanese (Marma)
+    nsg: Nisgha
+    knc: Kugu Nganhcara
+    ifu: Ifugao (Batad)
+    kkz: Kokni
+    cti: Chin (Tiddim)
+    ngo: Ngoni
+    yus: Yupik (Siberian)
+    amd: Amdo
+    fuz: Fuzhou
+    yey: Yeyi
+    pun: Pungupungu
+    kko: Koranko
+    pny: Panyjima
+    son: Sonsorol-Tobi
+    klp: Kalapuya
+    nko: Nkore-Kiga
+    rny: Runyankore
+    bfg: Berber (Figuig)
+    qca: Quechua (Cajamarca)
+    xer: Xerénte
+    uld: Uldeme
+    brz: Birri
+    daw: Dâw
+    skr: Sikaritai
+    mwa: Martu Wangka
+    tex: Turkic (East-Central Xorasan)
+    twx: Turkic (West Xorasan)
+    ndb: Ndebele (in South Africa)
+    din: Dinka
+    jar: Jarawa (in Nigeria)
+    llm: Lelemi
+    mhu: Mbalanhu
+    puq: Puquina
+    tke: Tokelauan
+    hdi: Hdi
+    krd: Kurdish (Central)
+    bgi: Bagri
+    plp: Pulopetak
+    wgu: Warrongo
+    mmo: Mordvin (Moksha)
+    yuk: Yukulta
+    ynk: Yankuntjatjara
+    kuu: Kuuku Ya'u
+    ago: Angolar
+    ylb: Yulparija
+    kjo: Konjo
+    kgl: Umbu Ungu
+    jel: Jeli
+    mka: Mauka
+    tal: Talinga
+    kto: Kato
+    ksi: Ksingmul
+    ivs: Ivatan (Southern)
+    bdm: Badimaya
+    mdm: Madimadi
+    tws: Tiwa (Southern)
+    taq: Taiwanese
+    uhi: Uradhi
+    ayn: Aynu
+    kmw: Kamu
+    cos: Rumsien
+    bgn: Bugun
+    lge: Low German
+    jva: Karajá
+    ati: Atikamekw
+    qan: Quechua (Ancash)
+    kgt: Kangiryuarmiut
+    mrs: Mairasi
+    fli: Ful (Liptako)
+    pin: Pintupi
+    lkt: Lakhota
+    jin: Jino
+    zar: Zarma
+    yug: Yugh
+    syg: Saryg Yughur
+    lno: Ladino
+    gdl: Guadeloupe Creole
+    grf: Garífuna
+    spi: Spitian
+    npi: Nigerian Pidgin
+    mcr: Mauritian Creole
+    les: Lese
+    lse: Lengua de Señas Española
+    mxs: Mixtec (Silacayoapan)
+    gan: Great Andamanese
+    bbl: Babole
+    abu: Abun
+    bai: Bai
+    kop: Komi-Permyak
+    dom: Domari
+    sla: Slave
+    asl: American Sign Language
+    kfc: Kriol (Fitzroy Crossing)
+    djm: Djambarrpuyngu
+    htt: Huitoto
+    lje: Lauje
+    kkv: Lusi
+    mxg: Mixtec (San Miguel el Grande)
+    nih: Nihon Shuwa (Japanese Sign Language)
+    arp: Arapesh (Mountain)
+    brd: Bardi
+    tnb: Tunebo
+    hmu: Huitoto (Muinane)
+    qco: Quechua (Cochabamba)
+    ygr: Yagaria
+    asm: Asmat
+    par: Päri
+    brl: Baragaunle
+    jur: Jurchen
+    vla: Vlaamse Gebarentaal
+    bkl: Bikol
+    sly: Selayar
+    did: Didinga
+    tay: Tayo
+    kac: Kachari
+    ams: Arabic (Modern Standard)
+    skl: Sikule
+    mkh: Mongol (Khamnigan)
+    ngi: Ngiyambaa
+    yi: Yi
+    kiw:  Kiwai (Southern)
+    she: Sherpa
+    pum: Pumi
+    ots: Otomí (Sierra)
+    lng: Lengua
+    ten: Tennet
+    nuk: Nukak
+    cat: Catio
+    syu: Salt-Yui
+    gor: Gorowa
+    cck: Chickasaw
+    mrc: Marchha
+    ipi: Indo-Pakistani Sign Language (Indian dialects)
+    mur: Mursi
+    fue: Futuna (East)
+    pit: Pitjantjatjara
+    krh: Krahô
+    bxj: Bayungu
+    dhl: Dhalandji
+    ggd: Gugadj
+    vka: Kariera
+    kyt: Kaytej
+    lnj: Linngithig
+    mrj: Mirniny
+    nlr: Ngarla
+    nly: Nyamal
+    ump: Umpila
+    wkw: Wagawaga
+    wbt: Wanman
+    wru: Warumungu
+    ylr: Yalarnnga
+    agb: Leggbó
+    wec: Welsh (Colloquial)
+    huc: =|Hoan
+    tia: Tima
+    wna: Wan
+    ddj: Dadjriwalé
+    ney: Neyo
+    jms: Jamsay
+    nrg: Nanerge
+    wwa: Waama
+    ncm: Ncàm
+    xsm: Kàsim
+    mmi: Mambai
+    myg: Mayogo
+    mnz: Munzombo
+    ajg: Ajagbe
+    guw: Gungbe
+    avk: Avikam
+    mkq: Mankon
+    mdw: Mbosi
+    bdu: Budu
+    vif: Vili
+    kwy: Iwoyo
+    sku: Suku
+    zag: Beria
+    mgq: Mango
+    tsk: Tamashek
+    hna: Mina
+    sid: Sidaama
+    arj: Arabic (Kuwaiti)
+    ryu: Shuri
+    bkb: Betta Kurumba
+    rji: Raji
+    ksn: Kasong
+    nmm: Manange
+    tbx: Tangbe
+    tdi: Tibetan (Dingri)
+    tdr: Tibetan (Drokpa)
+    amt: Amdo (Themchen)
+    shg: Shigatse
+    rpa: Rang Pas
+    xns: Kanashi
+    wme: Wambule
+    ybi: Yamphu
+    gyc: Gyarong (Cogtse)
+    rgc: rGyalrong (Caodeng)
+    tvt: Tutsa
+    ral: Ralte
+    mhl: Miri (Hill):
+    lic: Hlai (Baoding)
+    khn: Khün
+    smp: Shompen
+    agd: Agta (Dupaningan)
+    bgz: Banggi
+    ttd: Tetun Dili
+    lab: Labu
+    vnm: Vinmavis
+    psw: Port Sandwich
+    lmu: Lamen
+    erk: Efate (South)
+    ndr: Nadroga
+    mxe: Ifira-Mele
+    mpt: Mian
+    mkj: Makasae
+    abv: Abui
+    adg: Adang
+    bdw: Baham
+    dlm: Dla (Menggwa)
+    brp: Barupu
+    fqs: Momu
+    kwt: Kwomtari
+    bio: Nai
+    amm: Ama
+    owi: Owininga
+    urt: Urat
+    xbi: Kombio
+    aoj: Mufian
+    kmz: Kamasau
+    inn: Innamincka
+    msq: Musqueam
+    tee: Tepehua (Huehuetla)
+    mxx: Mixe (Ayutla)
+    qum: Sipakapense
+    lec: Leko
+    eme: Émérillon
+    kyz: Kayabí
+    kno: Kanoê
+    cpy: Chipaya
+    kkq: Kuikúro
+    pnx: Panará
+    kqq: Krenak
+    tsl: Tanzania Sign Language
+    kbi: Kabui
+    nub: Nubi
+    alg: Algonquin
+    ega: Ega
+    kkl: Kata Kolok
+    lii: Lingua Italiana dei Segni
+    kwm: Kwami
+    lgp: Língua Gestual Portuguesa
+    iga: Inga
+    npn: Naga Pidgin
+    qbo: Quechua (Bolivian)
+    ics: Icelandic Sign Language
+    ths: Thai Sign Language
+    kuz: Kulamanen
+    bel: Belhare
+    goj: Gojri
+    slg: Sulung
+    klr: Koluri
+    ada: Adamorobe Sign Language
+    emm: Emmi
+    mbr: Mbara
+    fsl: Finnish Sign Language
+    lsf: Langue des Signes Française
+    ssl: South Korean Sign Language
+    blj: Baale
+    kdz: Kadazan
+    mtg: Montagnais
+    lsa: Lengua de Señas Argentina
+    kym: Krymchak
+    nsk: Naskapi
+    laa: Laal
+    usl: Urubú Sign Language
+    kbt: Kabatei
+    pgl: Pingilapese
+    srb: Sorbian
+    tgn: Tugun
+    krw: Korowai
+    ise: Isekiri
+    aus: Auslan
+    nlu: Ngarluma
+    nph: Nar-Phu
+    plg: Palaung
+    lsq: Langue des Signes Québecoise
+    urm: Urum
+    imo: Imonda
+    lsb: Língua de Sinais Brasileira
+    sem: Sema
+    bok: Boko
+    irs: Irish Sign Language
+    bfi: Bafia
+    ktb: Kituba
+    psl: Plains-Indians Sign Language
+    myo: Mayo
+    kic: Kickapoo
+    bsl: British Sign Language
+    kag: Komering
+    mts: Matis
+    smd: Semandang
+    gsl: Greek Sign Language
+    let: Leti
+    rsl: Russian Sign Language
+    kum: Kumauni
+    alt: Alsatian
+    jum: Júma
+    com: Comorian
+    mek: Mekens
+    ipk: Indo-Pakistani Sign Language (Karachi dialect)
+    csl: Chinese Sign Language
+    sps: Salish (Southern Puget Sound)
+    tui: Türk Isaret Dili
+    ugs: Ugandan Sign Language
+    nzs: New Zealand Sign Language
+    inr: Inuktitut (Rankin Inlet)
+    lam: Lamé
+    ojs: Ojibwa (Severn)
+    nbh: Ghulfan
+    nus: Nusu
+    tzi: Taiwanese Sign Language (Ziran Shouyu)
+    dar: Darai
+    qcu: Quechua (Cuzco)
+    keo: Keo
+    aka: Aka
+    mol: Moldavian
+    ngw: Ngawun
+    wmn: Wéménugbé
+    chn: Chantyal
+    vas: Vasavi
+    spo: Spokane
+    smn: Seminole
+    svt: Svenska Teckenspråket
+    gug: Gugada
+    pri: Príncipense
+    buk: Bukusu
+    ani: //Ani
+    atb: Aralle-Tabulahan
+    ned: Nederlandse Gebarentaal
+    hlb: Halbi
+    hua: Hua
+    nte: Norsk Tegnspråk
+    gny: Gunya
+    mms: Mamasa
+    iss: Israeli Sign Language
+    shd: Sherdukpen
+    kkr: Kirikiri
+    ksl: Kenyan Sign Language
+    dge: Deutsche Gebärdensprache
+    mcf: Michif
+    mnj: Mantjiltjara
+    hli: Halkomelem (Island)
+    bly: Balyku
+    guf: Gupapuyngu
+    wgg: Wangkangurru
+    bgm: Bangime
+    kgy: Kyirong
+    knz: Kham (Tibetan) (Nangchen)
+    khd: Kham (Dege)
+    bwc: Bajau (West Coast)
+    mqf: Momuna
+    csk: Diola-Kasa
+    nbm: Ngbaka (Ma'bo)
+    cea: Cree (Swampy)
+    bnu: Bularnu
+    wom: Womo
+    hks: Hong Kong Sign Language
+    isl: International Sign
+    mkw: Máku
+    ktt: Kott
+    myy: Mayi-Yapi
+    cco: Chasta Costa
+    bah: Xiriana
+    kua: Kualan
+    aab: Arapesh (Abu)
+    jua: Juat
+    joh: Johari
+    tms: Tommo So
+    keu: Kenyah (Uma' Lung)
+    rcp: Russian-Chinese Pidgin (Birobidjan)
+    lgh: Lughat al-Isharat al-Lubnaniya
